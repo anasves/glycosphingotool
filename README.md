@@ -1,3 +1,4 @@
+Archived repository, the active version can be found at [SIB github](https://github.com/sib-swiss/glycosphingotool)
 
 ## Examples
 
